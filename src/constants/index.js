@@ -12,8 +12,9 @@ export const EXPERIENCES = [
     year: "Jun 2017 - Sep 2017",
     role: "Data Analyst Intern",
     company: "NOVIGO SOLUTIONS",
-    description: `->Developed an innovative Streamlit-based movie recommendation system implementing collaborative filtering, vectorization, and cosine similarities, delivering data-driven movie suggestions. Achieved an 80% success rate in effectively resolving no-match scenarios, contributing to a 35% increase in user satisfaction through sophisticated algorithm integration.
-    ->The efficient coordination of high-quality data collection through the implementation of stringent validation procedures and systematic organization using descriptive labels resulted in a 30% improvement in data accuracy and a 50% reduction in preprocessing time, thereby enhancing the precision of feature extraction by 90% and boosting model performance.->Enhancing predictive accuracy by 25% through systematic testing, validation, and implementation of optimized data handling technique significantly enhances the overall performance and reliability of the recommendation system`,
+    description: `Developed an innovative Streamlit-based movie recommendation system implementing collaborative filtering, vectorization, and cosine similarities, delivering data-driven movie suggestions. Achieved an 80% success rate in effectively resolving no-match scenarios, contributing to a 35% increase in user satisfaction through sophisticated algorithm integration.\
+    ->The efficient coordination of high-quality data collection through the implementation of stringent validation procedures and systematic organization using descriptive labels resulted in a 30% improvement in data accuracy and a 50% reduction in preprocessing time, thereby enhancing the precision of feature extraction by 90% and boosting model performance.\
+    ->Enhancing predictive accuracy by 25% through systematic testing, validation, and implementation of optimized data handling technique significantly enhances the overall performance and reliability of the recommendation system`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
   {
