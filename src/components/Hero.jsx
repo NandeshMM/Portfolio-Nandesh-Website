@@ -39,7 +39,7 @@ const Hero = () => {
                     initial={{x:100,opacity:0}}
                     animate={{x:0,opacity:1}}
                     transition={{duration: 1,delay:1.2}}
-                     src={profilePic} alt='M M Nandesh'/>
+                     src={profilePic} alt='M M Nandesh' height={100} width={100}/>
                 </div>
             </div>
         </div>
