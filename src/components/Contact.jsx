@@ -22,7 +22,7 @@ const Contact = () => {
             <motion.a
             whileInView={{opacity:1,y:0}}
             initial={{opacity:0,y:-100}}
-            transition={{duration:0.5}} href="a" className='boerder-b'>
+            transition={{duration:0.5}} href="nandeshsahyadri@gmail.com" className='boerder-b'>
                 {CONTACT.email}
             </motion.a>
         </div>
