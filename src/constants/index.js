@@ -21,32 +21,32 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "PARTTIMEMATCH: PART-TIME JOB MATCHING PLATFORM WITH MACHINE LEARNING",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "Spearheaded a high-impact project to develop a platform connecting part-time job seekers with job givers. Utilized vectorization and collaborative filtering machine learning techniques to achieve 90% accuracy in matching profiles. We utilized React.js and HTML to develop the front end, MongoDB for data storage, and Node.js for the backend of this project. Additionally, we implemented machine learning algorithms to efficiently group profiles of 10+ job seekers for bulk part-time employee requirements.",
+    technologies: ["React.js", "HTML", "MongoDB", "Node.js", "Machine Learning"],
   },
   {
-    title: "Task Management App",
+    title: "SMART MOVIE RECOMMENDATION ENGINE",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "As part of a 4-person team, spearheaded the design and implementation of a recommendation engine utilizing Streamlit. Successfully deployed the system to provide over 100 personalized recommendations.Optimized machine learning algorithms like Vectorization and cosine similarities, leading to a significant improvement in recommendation accuracy to 98%. Achieved a 50% increase in user retention and satisfaction rates through enhanced algorithmic performance.",
+    technologies: ["Machine Learning", "StreamLit"],
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["HTML", "CSS", "React", "Framer Motion"],
   },
   {
-    title: "Blogging Platform",
+    title: "PNEUMONIA DETECTION USING DEEP LEARNING",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "PNEUMONIA DETECTION USING DEEP LEARNING Jan 2024.Analyzed and processed chest X-ray images, achieving an 84% reduction in preprocessing time. Implemented convolutional neural network (CNN) models achieving 97% accuracy in pneumonia detection.Applied TensorFlow and Keras, leading platforms for deep learning, to enhance pneumonia detection reliability by 55% in the project. Implemented advanced techniques that significantly improved the accuracy and reliability of the detection syste",
+    technologies: ["CNN", "TensorFlow", "Keras", "Deep Learning", "Machine Learning"],
   },
 ];
 
